@@ -1,4 +1,4 @@
-# InventorySorting
+# RepairEnhancedWeapons
 
 Copyright 2017 "Florian Hirson" on the empyrion forums (https://empyriononline.com/members/florian-hirson.24143/)
 

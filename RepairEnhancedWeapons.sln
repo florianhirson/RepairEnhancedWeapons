@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2002
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventorySorting", "InventorySorting.csproj", "{AD554935-224C-44C8-9AC2-572C0B0B23A8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepairEnhancedWeapons", "RepairEnhancedWeapons.csproj", "{AD554935-224C-44C8-9AC2-572C0B0B23A8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +20,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {CA9DACE4-90D2-420F-9B2D-D98510A28846}
+		SolutionGuid = {CF2FD821-0EEE-46D4-8BD7-20644FDBB676}
 	EndGlobalSection
 EndGlobal
